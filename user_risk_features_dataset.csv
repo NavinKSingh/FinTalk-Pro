@@ -1,0 +1,201 @@
+user_id,monthly_income,monthly_expenses,credit_utilization_percent,monthly_loan_payment,groceries_budget,groceries_spent,account_balance,transaction_amount,transaction_time,merchant,transaction_category,location,is_foreign,is_large,is_unusual_time,security_alert_type,emi_count
+1017,55960.57,43577.87,43.19,16688.01,6575.9,8835.7,54630.23,77045.84,2025-02-11 16:39:54,Higgins Group,travel,Karaside,True,True,False,None,6
+1017,48340.83,45607.85,31.87,12940.62,11948.57,11234.59,45147.26,1597.61,2025-02-07 10:20:06,Sanders-Nguyen,salary,Chrisland,True,False,False,None,5
+1017,57772.26,50830.51,14.51,12561.97,8739.98,9685.45,19677.74,41907.32,2025-03-02 09:04:15,Lowery-Lopez,salary,New Emilyside,True,False,False,None,4
+1017,68276.36,50538.02,79.18,12837.21,8277.25,9913.51,63786.54,48393.74,2025-02-18 02:21:45,"Rodriguez, Cook and Kelly",travel,Wattsborough,True,False,True,Malware,3
+1017,47190.16,26223.31,75.03,16972.26,6712.46,10139.53,44726.48,2409.63,2025-02-25 14:35:26,Davis-Zavala,groceries,North Todd,False,False,False,None,4
+1017,47190.36,30621.75,89.98,12895.08,9050.46,9895.42,25127.53,26351.41,2025-03-20 22:16:43,Warren-Smith,bills,North Caitlinport,True,False,False,None,7
+1017,68950.55,45150.35,89.73,16448.87,7136.54,10285.45,-7491.09,76148.84,2025-03-27 01:09:52,Beard PLC,bills,Christianfurt,True,True,True,None,1
+1017,59209.22,45137.86,54.43,25377.0,8183.01,11658.31,64364.14,14142.42,2025-01-23 22:50:17,Lee-Marshall,bills,East Patricia,True,False,False,Malware,7
+1017,44366.31,45150.48,71.52,19355.62,11840.13,9393.04,9156.41,53763.36,2025-01-16 10:07:17,Heath Group,travel,Alvarezshire,False,True,False,Phishing,1
+1017,56510.72,78527.31,85.58,13369.88,7855.91,10418.01,5319.02,21912.59,2025-04-06 12:24:32,Porter Group,salary,Gilbertfort,True,False,False,Phishing,2
+1017,44438.99,45708.91,77.97,21006.07,9723.91,8820.53,45338.56,1706.02,2025-03-27 19:51:50,Bullock Ltd,travel,South Christian,False,False,False,None,4
+1017,44411.24,51355.66,29.79,12959.62,6945.24,11880.23,66596.29,24499.55,2025-01-26 12:27:54,"Navarro, Carr and Smith",travel,Evanmouth,False,False,False,Malware,1
+1017,52903.55,49540.02,46.04,4809.38,7947.52,7647.22,50764.09,97599.44,2025-02-04 20:50:03,Salas-Martinez,entertainment,Anthonyville,True,True,False,Unauthorized login,9
+1017,27040.64,46513.91,20.33,9959.57,10656.2,12601.88,38458.64,80252.94,2025-01-21 19:08:42,"Faulkner, Bryant and Fischer",salary,South Wendy,True,True,False,Unauthorized login,6
+1017,29300.99,36847.31,86.32,5646.04,7059.55,8919.68,38921.32,95977.88,2025-03-24 14:26:15,"Lindsey, Reed and Blair",entertainment,Lake Craig,False,True,False,None,1
+1017,43252.55,47589.69,58.49,13242.43,10718.67,6138.45,42801.23,49041.48,2025-03-21 00:16:36,Crosby-Norton,shopping,North Kristina,False,False,True,None,1
+1017,37846.03,32271.75,28.29,15092.09,9061.63,9256.21,41383.93,11418.75,2025-01-27 12:39:14,"Freeman, Snyder and Cline",salary,Andreaport,False,False,False,None,6
+1017,53770.97,37631.81,63.74,23382.19,7156.3,7637.9,34217.87,55021.97,2025-02-16 08:45:10,Valdez-Sims,salary,Lake Cindychester,False,True,False,Phishing,4
+1017,39103.71,35146.36,59.45,16634.64,8948.61,10681.29,31563.02,45710.54,2025-01-13 21:44:24,"Brown, Mccoy and White",salary,South Andrew,False,False,False,Phishing,4
+1017,33052.36,40818.74,38.65,13904.5,9458.83,7694.75,29061.1,84513.53,2025-02-09 13:06:29,"Casey, Valencia and Hernandez",bills,New Steven,True,True,False,None,6
+1017,67587.79,63146.59,19.08,19147.03,8932.71,8107.63,18690.53,10259.22,2025-04-10 15:52:54,"Davis, Ali and Hull",bills,Davisborough,True,False,False,None,7
+1017,47290.68,21327.35,63.73,3944.32,5644.66,5220.92,25789.87,49079.99,2025-01-31 20:12:24,Walker Inc,entertainment,East Michael,True,False,False,Phishing,9
+1017,50810.34,46862.6,51.62,16178.07,6909.29,8095.39,4605.65,15429.84,2025-02-13 08:54:01,Hernandez-Callahan,entertainment,North Douglasland,True,False,False,Malware,5
+1017,32903.02,23872.84,71.79,18854.33,7628.72,4152.24,28524.91,32805.25,2025-04-07 08:04:21,Guzman-Kim,salary,New Davidstad,False,False,False,Unauthorized login,9
+1017,43467.41,35280.68,51.61,7607.07,7888.35,5832.19,15171.13,73867.03,2025-04-03 22:57:08,"Hoffman, Ramirez and Carson",entertainment,North Rachelhaven,True,True,False,Unauthorized login,4
+1017,51331.07,50889.51,78.17,20718.77,8931.01,10520.83,13446.16,47863.8,2025-01-30 12:55:08,"Schmidt, Wang and Myers",bills,Joelmouth,True,False,False,None,2
+1017,36188.08,40642.8,54.15,16692.48,8266.55,10571.6,32698.41,37900.88,2025-02-25 11:26:12,Daniels-Smith,travel,Hubbardfort,True,False,False,None,3
+1017,54508.38,29222.55,54.88,12923.56,5996.98,9850.92,50880.03,39750.39,2025-03-07 22:30:21,Underwood Ltd,travel,Madisonport,True,False,False,None,1
+1017,42792.34,32846.96,80.13,18163.91,8570.3,7066.05,43774.75,46214.95,2025-02-27 15:48:13,"Hurst, Harris and Martin",travel,South Alexandriatown,True,False,False,Unauthorized login,6
+1017,46499.68,46795.98,42.28,26353.46,8915.88,8904.58,6442.49,78609.15,2025-04-07 17:44:27,Rogers and Sons,entertainment,New Megan,True,True,False,Unauthorized login,6
+1017,42779.52,32696.33,20.72,15909.33,8839.69,8992.79,15155.58,89262.43,2025-02-03 20:09:00,Mann and Sons,shopping,North Joshuaborough,True,True,False,None,1
+1017,72227.34,42164.59,12.3,16241.1,9621.17,6683.27,44111.57,95555.8,2025-02-23 15:38:14,"Moreno, James and Allison",bills,North Eric,True,True,False,Account lockout,3
+1017,49838.03,40455.72,70.41,12703.2,9250.88,12006.8,15262.69,78796.89,2025-02-15 04:40:14,Cabrera Group,shopping,Thompsonfort,True,True,True,Malware,5
+1017,37307.47,33484.0,59.62,10750.78,8688.77,10754.72,26630.5,31882.99,2025-02-23 10:04:13,Ruiz-Chambers,entertainment,South Dylan,False,False,False,None,3
+1017,59870.54,61439.44,66.33,19151.68,7894.75,8558.07,38250.78,68969.4,2025-01-28 19:11:44,Palmer-Hebert,groceries,East Steven,True,True,False,None,3
+1017,35349.88,46339.19,27.04,10719.58,5508.56,9053.77,15474.83,44041.51,2025-03-22 23:45:25,Randall-Martin,salary,South Adam,True,False,True,Account lockout,3
+1017,52506.36,19748.57,20.91,15357.83,8644.43,9416.77,31580.63,25839.73,2025-03-12 16:34:27,Wagner-Hodges,bills,Adamchester,False,False,False,Unauthorized login,5
+1017,26483.96,41864.54,11.16,12611.71,8311.53,4916.53,9989.62,84166.72,2025-02-14 02:12:19,"Mccoy, Rice and Stewart",travel,East Kimberlytown,False,True,True,None,5
+1017,34061.77,33382.14,38.05,17394.9,8407.37,8505.65,20979.49,4323.42,2025-03-30 14:46:32,"Woods, Bentley and Mcdaniel",shopping,Monicaport,True,False,False,None,4
+1017,52362.33,48524.33,57.19,16668.31,6084.88,7636.03,34796.73,90225.32,2025-03-23 21:49:38,Terry-Mclaughlin,groceries,Riverahaven,True,True,False,Unauthorized login,1
+1017,58861.6,32074.79,41.38,20187.7,6378.42,6996.76,6105.09,46417.01,2025-01-28 21:41:04,"Shaw, Thomas and Bailey",groceries,Deborahville,False,False,False,Phishing,5
+1017,52056.42,38852.64,45.0,12449.92,9579.73,8437.8,36607.12,63901.55,2025-04-06 07:59:50,"Wilson, Kerr and Nelson",bills,Jonathanchester,True,True,False,Account lockout,5
+1017,48612.22,45049.87,82.33,13650.63,7940.67,12595.37,29705.43,66105.72,2025-02-07 01:13:49,Cain Group,bills,Deborahshire,False,True,True,Unauthorized login,4
+1017,46386.76,48657.55,37.86,10106.18,9022.25,10281.69,38287.35,89564.22,2025-04-01 03:24:28,"Jones, Contreras and Williams",groceries,South Christopherview,False,True,True,None,6
+1017,32257.74,27997.04,51.12,12778.53,8042.48,7857.64,33358.71,63848.63,2025-03-09 03:22:31,Morgan PLC,salary,Lake Leroy,True,True,True,None,4
+1017,41361.87,36654.99,72.69,16886.5,8044.63,10145.17,50462.11,61586.39,2025-03-24 05:58:50,"Evans, Shaw and Kelly",salary,Hernandezville,True,True,True,Account lockout,7
+1017,44472.33,35250.55,41.72,18784.94,9407.43,11798.71,31878.37,7131.88,2025-01-21 18:56:48,Dyer-Griffin,shopping,Lake Victoriaburgh,True,False,False,Malware,7
+1017,62685.47,33466.71,59.77,10389.17,7225.93,10849.27,23558.92,52081.6,2025-03-28 20:36:46,"Garcia, Hawkins and Oneill",salary,Pachecoport,False,True,False,Unauthorized login,2
+1017,54123.42,57654.54,78.99,19348.03,8144.18,9119.26,31834.46,15441.82,2025-03-14 09:45:17,Stark PLC,groceries,West Gina,False,False,False,None,3
+1017,28843.52,44049.82,85.96,21778.19,7306.59,7706.13,38149.47,73874.66,2025-03-05 06:42:00,Johnson PLC,groceries,West Debraview,False,True,False,None,1
+1017,53889.01,27391.16,21.77,17067.17,7348.26,10396.45,30732.9,51466.08,2025-01-20 13:23:54,Thomas-Carpenter,entertainment,North Ricardoton,False,True,False,Unauthorized login,8
+1017,45379.01,49178.62,84.13,24383.98,7536.24,9786.97,30608.88,68182.66,2025-03-19 16:21:31,"Mays, Reilly and Patterson",groceries,Port Andrea,False,True,False,Malware,9
+1017,41876.94,61221.56,49.37,11131.05,8333.2,10790.39,19470.12,4646.45,2025-01-17 22:32:32,Vargas LLC,salary,Davidview,True,False,False,Account lockout,4
+1017,57340.12,50324.65,30.66,8776.73,7281.88,10270.34,20056.49,8936.81,2025-04-07 23:34:15,Wallace Group,travel,North Christopherton,True,False,True,Account lockout,6
+1017,62371.99,24806.3,46.73,6106.4,9883.63,11099.11,8960.92,71774.18,2025-01-22 15:32:43,"Anthony, Clayton and Patrick",shopping,Hermanberg,True,True,False,None,9
+1017,61175.36,35157.66,88.4,22480.22,6658.09,7929.53,56243.65,7672.39,2025-03-20 03:22:03,Spencer-Brown,entertainment,Karaview,False,False,True,Malware,6
+1017,39929.39,52669.11,49.41,18271.83,7719.69,11634.79,11342.05,7590.04,2025-02-28 22:52:23,Ford Inc,salary,Greenefurt,False,False,False,Account lockout,9
+1017,46289.45,32923.31,36.3,14722.08,7340.4,9395.2,19606.42,1704.79,2025-02-06 18:31:27,Humphrey-Robertson,shopping,Nicolemouth,True,False,False,Phishing,4
+1017,53975.16,44438.19,60.67,16399.84,10170.47,13150.52,19223.89,95671.89,2025-04-01 03:42:35,"Thompson, Dickson and Hinton",salary,Lopezburgh,True,True,True,Unauthorized login,8
+1017,61706.54,47746.34,29.21,9372.55,8294.83,7621.62,43423.87,73882.08,2025-02-14 04:52:07,Dean and Sons,entertainment,Thomasmouth,True,True,True,None,9
+1017,44249.91,30730.7,16.07,27228.76,9547.77,12471.93,25575.75,35648.52,2025-03-24 22:40:20,Mills LLC,groceries,South Nicholas,True,False,False,None,4
+1017,47772.09,39404.75,20.31,15646.11,5771.66,9395.82,48716.13,30005.29,2025-03-22 02:19:49,"Serrano, Oliver and Fowler",travel,Susantown,False,False,True,Malware,5
+1017,36723.98,7587.33,20.24,15546.97,8400.58,7697.16,19897.64,35295.47,2025-03-17 23:54:48,Myers Inc,entertainment,Hensonborough,True,False,True,None,8
+1017,35645.52,29756.12,22.15,18628.83,9334.45,8032.23,34184.91,77578.03,2025-02-18 16:41:33,Medina-Johnson,groceries,Port Matthewside,False,True,False,Account lockout,6
+1017,59750.31,37474.32,21.11,17405.05,8123.43,8359.31,17469.79,66306.38,2025-02-27 10:46:50,Carr and Sons,entertainment,New Meghan,True,True,False,None,7
+1017,66274.88,27522.17,61.27,16119.42,9598.22,9848.33,62177.24,18926.96,2025-03-24 10:00:54,Woods-Nguyen,bills,North Roy,False,False,False,Account lockout,3
+1017,49135.88,56324.11,24.55,11047.63,7224.07,10045.67,12186.02,17823.88,2025-02-20 02:31:33,Brewer-Chang,travel,East Kellybury,False,False,True,None,7
+1017,62042.39,25698.59,37.65,17357.34,10114.02,7852.6,34647.31,10290.37,2025-01-24 23:09:53,"Higgins, Walters and Rangel",salary,Carrfurt,True,False,True,None,8
+1017,54339.63,35599.56,81.74,24410.12,11448.35,8951.29,39506.65,66200.12,2025-02-04 00:55:40,Hill Ltd,salary,Danahaven,True,True,True,None,6
+1017,42258.56,41307.41,47.92,21727.1,7455.74,13284.54,36206.99,76555.08,2025-02-13 05:41:39,Humphrey LLC,travel,Michelleview,False,True,True,None,9
+1017,54336.75,54412.73,63.4,22965.93,7331.75,12455.09,27220.69,26872.12,2025-02-19 01:20:18,"Turner, Velasquez and Dyer",bills,West Anthonyville,True,False,True,None,6
+1017,68456.44,25641.38,23.79,12443.92,10180.08,9872.65,28052.69,2584.02,2025-01-14 23:53:38,Hampton-Hill,groceries,New Richard,True,False,True,Phishing,9
+1017,49570.09,51631.64,25.38,10051.98,10369.36,9076.01,30657.17,8676.08,2025-02-24 23:32:23,Harrison-Dalton,salary,East Brenda,True,False,True,Unauthorized login,4
+1017,68775.72,40102.33,13.27,14371.07,7215.71,9240.06,27794.97,96802.07,2025-03-17 20:48:17,Sims Inc,bills,Butlershire,True,True,False,Malware,8
+1017,18563.06,30184.91,23.51,15278.62,7369.72,10227.04,44458.19,29896.76,2025-02-02 19:01:12,"Gilmore, Long and Kramer",salary,Debraborough,True,False,False,None,4
+1017,59862.83,44621.03,32.29,20470.96,7577.32,6954.41,63157.85,77037.7,2025-03-27 11:42:13,Smith Group,shopping,West Ashley,True,True,False,None,2
+1017,51044.56,41990.6,24.16,6537.68,5983.32,8485.25,21637.62,62654.03,2025-03-14 15:38:35,Quinn Inc,groceries,Ashleystad,False,True,False,Unauthorized login,9
+1017,46411.91,33997.83,17.1,22647.75,6622.02,5662.83,9452.96,38502.99,2025-01-19 21:45:26,Thomas-Swanson,shopping,South Natashaton,False,False,False,Account lockout,5
+1017,51101.13,40698.02,19.65,14209.96,6493.79,9798.45,28675.77,20965.88,2025-04-08 14:44:50,"Thomas, Brown and Thomas",travel,Jonshire,False,False,False,Unauthorized login,4
+1017,26149.17,36146.86,46.86,12865.59,6848.3,10294.39,68695.64,12577.95,2025-03-03 04:17:10,Miller and Sons,groceries,Shannonmouth,True,False,True,None,2
+1017,47363.94,41135.17,26.51,9939.48,7947.97,8033.63,17944.88,61693.79,2025-03-17 08:49:58,Williams-Ware,bills,Lake Gregoryfurt,False,True,False,None,1
+1017,54285.35,46621.31,39.14,6725.72,8351.32,12147.97,54586.75,77576.06,2025-03-04 16:25:59,Baker-Potts,groceries,Port Nicole,True,True,False,None,7
+1017,67734.73,55860.17,50.27,19115.85,10325.75,6548.47,55165.51,64568.47,2025-02-13 09:05:15,Atkins-Fernandez,groceries,West Chadtown,True,True,False,None,6
+1017,43780.76,27621.85,65.23,15366.59,6502.47,6071.25,21696.18,53265.06,2025-01-30 20:05:22,"Nelson, Morales and Lutz",bills,Lake Danielport,False,True,False,Unauthorized login,2
+1017,40298.08,61330.33,13.14,8550.2,9476.48,9448.9,38534.75,4674.15,2025-04-04 02:57:11,"Reyes, Kramer and Reeves",travel,Buckberg,True,False,True,Account lockout,8
+1017,43978.92,20479.12,73.95,8524.61,7679.02,11094.2,54425.95,96864.63,2025-01-13 18:17:29,"Smith, Hardy and Hall",groceries,Walterville,False,True,False,Unauthorized login,4
+1017,60984.83,38482.15,60.23,13321.08,7925.8,12367.86,24313.08,79972.06,2025-02-02 15:32:00,Brown-Jones,travel,Tylertown,False,True,False,None,8
+1017,53945.01,45883.17,16.54,23345.11,9012.23,8082.23,26946.29,29635.79,2025-02-07 04:03:06,"Norris, Evans and James",travel,Rossfort,False,False,True,Malware,7
+1017,43642.88,42809.92,79.89,13702.04,6315.92,11157.36,21274.79,98007.05,2025-02-18 03:48:22,Brown PLC,travel,Annchester,False,True,True,Unauthorized login,5
+1017,56159.21,33773.0,83.67,7484.29,8573.61,8922.98,14778.65,60387.22,2025-03-26 13:00:37,"Molina, Gonzales and Anderson",salary,Rhondatown,False,True,False,Malware,8
+1017,51164.93,37918.78,14.89,13771.28,8249.68,8654.75,20260.84,58451.05,2025-03-01 23:54:11,Hampton-Flores,entertainment,Port Kenneth,False,True,True,None,9
+1017,61623.74,35069.99,32.15,13636.38,8738.68,10767.32,11640.9,74933.28,2025-01-20 20:32:27,Cook Group,travel,East Sethmouth,True,True,False,Unauthorized login,5
+1017,41575.36,34106.35,74.5,1515.57,8433.75,10304.65,30511.25,81271.09,2025-03-25 14:11:58,Gordon-Garza,bills,Johnsonstad,True,True,False,Account lockout,5
+1017,46068.05,48496.02,69.86,14728.53,11682.95,5847.22,18450.4,65819.62,2025-01-28 08:03:55,Stark-Miller,entertainment,Richardsfurt,False,True,False,Phishing,2
+1017,45294.7,43570.15,24.76,13845.33,7043.39,11953.08,33506.79,13245.53,2025-04-02 19:44:47,Miller-Figueroa,travel,Deleonville,True,False,False,Phishing,5
+1017,32437.82,33070.9,26.75,18481.03,7203.5,11760.18,6661.57,34157.62,2025-01-27 15:21:18,Franklin-Brandt,bills,Helenport,True,False,False,Malware,3
+1017,53553.44,48996.0,39.64,24244.78,7065.29,7748.87,34963.2,92844.32,2025-01-27 23:30:02,Davis-Jenkins,bills,Port Catherine,True,True,True,None,7
+1017,53132.66,43073.0,48.76,20632.83,7166.78,9791.61,42502.93,22849.25,2025-02-13 09:01:59,Farmer PLC,shopping,Bradshawberg,False,False,False,Malware,5
+1017,50061.36,48128.62,59.46,13655.56,7043.92,9988.06,93.97,37530.62,2025-04-10 20:26:10,Collier-Moore,shopping,Josephbury,True,False,False,None,8
+1017,47184.95,46296.29,39.51,9467.37,9783.52,9521.35,35610.85,43491.65,2025-01-28 09:37:16,"Olson, Garcia and Edwards",groceries,Sanchezport,True,False,False,None,1
+1017,33015.55,31710.05,47.0,27866.8,10130.76,7899.39,48415.03,44220.8,2025-04-11 00:04:08,"Washington, Smith and Campbell",travel,Travistown,False,False,True,Phishing,3
+1017,44952.26,34398.19,69.8,15296.09,7143.88,7656.75,11855.38,61487.49,2025-01-23 05:45:16,Riley-Nelson,travel,Johnsmouth,True,True,True,Account lockout,3
+1017,45887.43,47472.94,12.93,15069.65,6751.47,8948.89,55088.59,94336.05,2025-02-06 09:01:51,Sandoval PLC,entertainment,Rogershaven,True,True,False,Account lockout,9
+1017,40372.67,46103.7,30.19,14879.37,8707.12,11345.46,36285.29,24448.92,2025-02-20 22:34:20,Shaw-Rodriguez,bills,Grayhaven,True,False,False,Unauthorized login,5
+1017,48064.57,39790.98,67.07,15990.42,7171.67,10087.2,19424.82,12589.39,2025-03-23 19:44:00,Williams-Jackson,travel,North Calebberg,True,False,False,Malware,9
+1017,54848.61,41173.27,81.62,14278.2,8949.4,8258.77,29163.46,20148.31,2025-01-27 03:02:30,Romero-Lawson,groceries,North John,True,False,True,Account lockout,9
+1017,72634.23,52776.65,50.93,12131.69,8304.38,10543.4,38374.9,88749.03,2025-03-02 14:56:38,"Lambert, Yang and Boone",salary,East Rebeccachester,True,True,False,None,1
+1017,52094.93,34084.29,52.57,12265.71,5726.38,3302.91,31140.08,64758.18,2025-03-10 01:06:21,Potter-Jefferson,bills,Lake Jessica,True,True,True,None,2
+1017,53090.6,45470.97,18.57,14836.23,10321.26,11297.53,38081.34,28947.73,2025-04-08 19:29:33,Rodriguez-Jones,salary,Lake Willie,False,False,False,Unauthorized login,5
+1017,49106.65,37978.07,45.79,12282.88,10693.82,5520.57,16189.9,81686.72,2025-03-13 08:55:34,Briggs Ltd,groceries,Sheppardhaven,True,True,False,Unauthorized login,4
+1017,26974.75,37823.19,52.61,11435.77,7080.82,8275.12,32540.41,86206.31,2025-01-13 01:05:59,"Ruiz, Gonzalez and Hughes",shopping,Tiffanyburgh,True,True,True,Phishing,9
+1017,49681.83,50987.77,29.4,15532.15,7418.45,6760.66,8794.28,84728.18,2025-02-07 12:20:13,Morgan-Cherry,groceries,Clarkview,True,True,False,Malware,7
+1017,50722.76,48254.16,31.54,13725.11,8428.8,6410.64,28331.61,91933.19,2025-02-12 11:31:36,Saunders Group,salary,Alecmouth,True,True,False,None,6
+1017,79558.91,48135.1,40.18,22519.96,8501.69,11321.65,16441.39,25597.98,2025-04-06 21:46:04,"Thomas, Kelly and Keith",bills,Jenniferborough,False,False,False,Account lockout,7
+1017,47691.67,53054.79,11.61,1745.15,8987.82,8064.6,18967.05,75626.67,2025-01-19 00:26:10,Brock-Henry,entertainment,Huberport,False,True,True,Account lockout,1
+1017,53618.57,40210.04,35.77,20457.53,11015.31,9693.01,48541.4,46323.68,2025-03-17 05:58:44,Gilbert-Frazier,travel,Smithville,False,False,True,None,1
+1017,49583.46,46819.53,26.92,21230.43,7734.58,8906.16,46369.65,84278.86,2025-01-26 22:57:16,Dixon Group,groceries,East Kathrynview,True,True,False,Unauthorized login,8
+1017,35975.86,36897.33,36.2,4633.05,6802.55,9954.08,39137.07,72984.82,2025-01-25 22:09:54,Mckay-Smith,bills,Port Brandonland,False,True,False,Malware,2
+1017,63713.87,43241.66,19.58,13286.56,5931.02,9153.64,13615.31,77756.52,2025-02-02 19:56:56,Day Group,travel,Lisachester,True,True,False,Malware,9
+1017,59023.2,38698.57,81.24,13142.8,6903.6,6434.02,25253.87,65788.1,2025-02-08 09:48:50,James-Lewis,shopping,South Johnmouth,False,True,False,Malware,7
+1017,59492.38,40969.96,57.49,7962.44,7950.31,10992.53,48196.47,18154.16,2025-01-14 21:20:09,"Kelley, Herman and Carroll",shopping,Schultzborough,False,False,False,None,6
+1017,39087.35,45951.57,64.33,11110.92,10691.84,8012.49,32125.75,54730.18,2025-01-28 14:47:31,"Wilson, Carpenter and Miller",travel,Richardchester,True,True,False,Phishing,1
+1017,66833.53,31817.79,73.13,9447.12,7223.58,5886.84,64789.94,98474.64,2025-03-09 01:12:23,"Torres, Neal and Smith",shopping,Mahoneyton,False,True,True,Account lockout,1
+1017,33177.79,60923.87,49.88,23761.35,8335.68,8143.77,35899.77,93770.11,2025-03-26 04:48:09,Dixon Inc,bills,North Melaniehaven,False,True,True,Malware,2
+1017,57042.29,29939.83,16.95,19678.39,7975.37,12001.52,32880.74,4795.79,2025-02-09 14:26:39,"Davidson, Savage and Henderson",groceries,Lake Sarahbury,False,False,False,None,6
+1017,76285.47,27858.11,52.97,21357.78,9782.59,10700.44,25363.25,16899.07,2025-01-18 17:01:26,Jennings PLC,bills,Port Mary,True,False,False,None,6
+1017,38113.56,51581.11,56.95,18608.36,11790.4,8302.7,32003.11,13607.01,2025-02-09 08:08:43,"Montgomery, Johnson and Murray",bills,Tonyview,True,False,False,None,2
+1017,43204.43,47916.63,69.64,9354.74,7203.7,8301.48,27712.95,72735.0,2025-01-25 19:14:26,"Mcguire, Cain and Harrington",travel,Port Amanda,False,True,False,Phishing,1
+1017,51195.82,46241.2,44.53,12377.4,7265.84,8356.73,40621.63,81869.64,2025-02-09 16:15:32,Caldwell-Kennedy,entertainment,Andrewview,True,True,False,None,5
+1017,43958.29,46283.46,20.21,17446.87,9566.24,13153.5,44350.53,21744.38,2025-03-24 14:47:15,Beck Inc,entertainment,West Mary,True,False,False,None,5
+1017,31392.04,39877.53,32.7,8889.36,9022.84,9763.87,18210.16,50832.34,2025-02-01 13:50:40,Nelson-Anderson,groceries,Martinport,True,True,False,Unauthorized login,2
+1017,50822.76,31027.46,39.05,18564.99,10770.06,9860.08,10031.51,84149.95,2025-01-26 17:41:58,"Joseph, Alvarez and Manning",travel,East William,False,True,False,Account lockout,6
+1017,37252.36,40758.05,61.67,13798.37,8875.89,11060.57,2456.92,73413.75,2025-03-15 15:53:42,Torres-Williams,entertainment,Lake Markland,True,True,False,None,9
+1017,55683.11,33228.38,55.66,13125.9,7461.06,9477.58,37619.87,54452.6,2025-01-27 20:02:43,"Rogers, Solis and Campos",shopping,Shelbyland,False,True,False,None,2
+1017,38966.91,49751.2,38.49,18554.8,8885.98,8481.92,13449.5,59239.6,2025-02-13 15:49:11,"Cain, Webb and Campbell",entertainment,East Samuelburgh,True,True,False,Account lockout,2
+1017,68599.21,38529.43,88.92,17221.32,9663.06,8607.3,-2293.36,51081.87,2025-02-01 18:13:18,Sharp and Sons,shopping,Marcusbury,True,True,False,Unauthorized login,3
+1017,40600.96,31745.03,58.46,13195.17,9230.72,8856.8,35828.68,30106.07,2025-04-02 16:49:16,"Anderson, Butler and Huber",groceries,North Jennifer,False,False,False,None,7
+1017,46135.26,36786.14,28.98,20796.65,8760.91,8925.56,67394.99,56719.69,2025-02-14 17:38:35,Ramos and Sons,bills,East Courtneyborough,False,True,False,None,6
+1017,59762.21,44129.31,18.14,9594.68,9600.01,10455.26,29908.94,69044.09,2025-03-24 09:40:10,Preston LLC,bills,East Ritafort,True,True,False,None,8
+1017,35229.63,34362.75,22.23,18079.68,9753.94,9103.89,42577.36,87395.63,2025-04-07 21:00:50,Villegas Group,entertainment,Jameschester,False,True,False,Phishing,8
+1017,52729.52,31777.8,29.68,17965.51,10073.24,10465.28,31227.44,63810.99,2025-01-26 13:54:41,"King, Brown and Howe",shopping,South Mitchell,False,True,False,None,6
+1017,65685.71,42436.87,22.85,13452.27,8973.06,8838.57,28516.66,76231.59,2025-02-08 10:53:29,Reyes-Mills,salary,Nathanstad,True,True,False,Unauthorized login,3
+1017,30710.2,42449.67,24.93,16630.67,7749.32,9157.27,43786.15,16427.13,2025-01-21 13:38:24,Horne Group,salary,Port Angela,False,False,False,Phishing,3
+1017,52215.61,34930.57,32.81,8744.43,8220.07,5003.6,25645.88,46424.97,2025-03-03 16:46:47,Hull and Sons,salary,Wallerburgh,True,False,False,None,1
+1017,53118.59,35289.62,23.87,19620.14,9809.76,10832.66,34010.88,1428.5,2025-03-28 16:03:47,"Walker, Turner and Lane",bills,North Williamton,True,False,False,Phishing,7
+1017,59381.87,42320.5,81.74,14075.49,6774.6,9692.98,34825.47,25044.55,2025-04-09 14:11:26,Patton-Griffin,travel,Barrettberg,False,False,False,Phishing,5
+1017,35156.59,25519.16,16.42,12386.38,8553.01,10996.02,19978.64,72782.94,2025-02-07 22:17:53,"Johnson, Wolfe and Mack",bills,South Heather,True,True,False,None,4
+1017,34154.52,25925.36,51.96,20245.05,7409.99,3207.49,44880.64,99185.09,2025-02-02 10:12:32,Williams-Hubbard,travel,Lanceport,True,True,False,None,4
+1017,56263.3,32815.56,42.83,11478.28,8043.12,13176.75,27375.6,10368.22,2025-02-03 07:18:15,Thornton Group,shopping,East Kathyville,True,False,False,Phishing,4
+1017,53563.82,37865.53,88.59,7957.69,9917.68,8720.82,18663.82,40448.68,2025-02-06 19:14:39,Rubio Inc,entertainment,Jonathanstad,False,False,False,Malware,6
+1017,53005.91,43109.08,18.96,7216.85,8286.65,11216.37,38047.65,80107.06,2025-04-05 18:23:29,"Melton, Lane and Chan",salary,Carlsonview,False,True,False,Account lockout,8
+1017,54157.38,54753.56,41.83,18030.05,8069.65,6920.19,16522.98,20801.55,2025-03-29 05:42:02,"Kline, Serrano and Reed",shopping,Joanmouth,True,False,True,None,8
+1017,41839.7,48576.6,87.56,8597.85,5960.22,10225.55,30422.72,55730.95,2025-04-02 23:27:32,Valdez-Garcia,shopping,West Megan,False,True,True,None,5
+1017,52787.04,38400.61,79.24,23773.97,9119.38,6893.17,29863.22,73440.59,2025-01-14 13:02:41,Washington-Coleman,entertainment,Lake Michaelport,True,True,False,None,6
+1017,53516.87,39809.84,75.37,4590.35,8968.23,7752.46,46288.43,61790.55,2025-01-27 10:45:33,Washington-Perry,shopping,New Courtneymouth,False,True,False,Malware,4
+1017,41427.78,29974.71,30.63,23482.28,11244.88,12828.06,37120.47,19208.46,2025-02-15 21:01:40,"Collins, Simpson and Jones",entertainment,South Lindsey,False,False,False,Malware,9
+1017,72389.29,39814.87,23.67,16055.09,7538.33,8618.64,29624.6,35860.76,2025-03-22 04:04:28,"Robinson, Lang and Warren",groceries,Catherineside,False,False,True,None,8
+1017,55686.0,37113.41,63.49,14516.43,8328.73,9434.87,42266.49,78487.28,2025-03-12 13:49:51,"Miller, Short and Moore",entertainment,Tommyside,True,True,False,Account lockout,1
+1017,35704.36,43227.19,84.35,12275.4,8374.08,10740.14,50853.11,55645.54,2025-02-07 12:48:47,Elliott-Landry,salary,Bowersstad,True,True,False,Phishing,2
+1017,57878.64,31727.69,54.54,16995.68,10366.18,9991.36,38367.15,1020.35,2025-01-26 14:53:19,Guzman Inc,travel,South Jeffreystad,False,False,False,None,9
+1017,38303.82,45193.47,55.73,14811.83,7857.06,9300.84,30155.29,76218.58,2025-04-06 04:47:31,Gillespie-Gill,travel,South Joyceborough,False,True,True,None,8
+1017,59445.02,55327.39,32.4,20516.51,8418.53,9729.92,10322.46,4013.48,2025-02-20 16:32:38,Montgomery-Peterson,salary,Jessicaton,True,False,False,Malware,3
+1017,63903.15,38912.4,71.56,15571.14,8911.84,13806.83,14023.3,74700.51,2025-01-28 15:17:10,"Boone, Moon and Macdonald",travel,Willischester,True,True,False,Malware,8
+1017,40151.81,44017.12,24.96,15751.51,8279.91,8884.76,25421.63,20646.82,2025-02-19 18:03:00,"Harris, Steele and Monroe",entertainment,Danielmouth,False,False,False,Malware,1
+1017,61560.51,46901.44,35.89,13181.94,7330.35,9402.2,20857.32,95828.31,2025-02-20 22:39:02,Santos PLC,groceries,South Jose,True,True,False,Phishing,4
+1017,54953.37,35987.8,44.03,14715.27,8291.13,11101.31,27195.43,37110.1,2025-04-09 19:00:44,Campbell-Peterson,travel,Lake Sarah,False,False,False,Phishing,3
+1017,59864.72,42240.92,50.61,16539.01,9610.45,11211.05,30849.75,33029.7,2025-01-12 00:48:38,"Bentley, Krueger and Chan",groceries,East Ruben,True,False,True,None,6
+1017,72761.52,40125.92,29.39,6449.16,6460.23,11374.06,37945.39,15314.36,2025-04-10 13:30:43,Cortez Ltd,salary,New Gabrielleville,False,False,False,None,7
+1017,47055.34,40976.76,19.19,8259.07,8199.45,10277.46,28942.52,30907.62,2025-03-08 23:02:01,"Taylor, Yu and Brown",groceries,Brookehaven,False,False,True,None,4
+1017,40955.17,32269.9,58.85,18716.32,6949.82,6713.99,37297.52,87726.75,2025-02-07 06:20:01,Rosales-Benson,shopping,Mitchellberg,True,True,False,None,7
+1017,39325.83,40245.1,33.09,15854.33,9792.57,12266.86,30967.12,99635.27,2025-02-14 01:44:15,Smith LLC,bills,East Erin,True,True,True,None,9
+1017,40210.28,44979.98,56.5,14080.08,5715.22,6707.31,368.0,37146.8,2025-02-09 02:30:39,Stevens PLC,shopping,Port Alex,True,False,True,None,2
+1017,49074.78,54511.44,22.35,15092.17,7161.62,9605.27,15909.97,45136.76,2025-04-07 05:54:34,"Powell, Thompson and Beard",salary,Woodsshire,True,False,True,None,3
+1017,54093.82,49592.71,48.49,16737.91,8565.82,7491.45,27838.69,72346.06,2025-04-03 16:09:33,"Wang, Dennis and Peterson",travel,Reneestad,True,True,False,None,5
+1017,53320.29,61531.82,52.61,12301.2,10348.29,8871.72,11854.58,88676.48,2025-03-12 03:19:57,Warren-Lane,travel,East Kim,False,True,True,Malware,3
+1017,59926.2,32326.52,14.15,11108.48,7901.37,9657.52,38998.93,59507.91,2025-03-23 11:35:15,Barber Group,groceries,South Nicoleland,True,True,False,Phishing,8
+1017,50156.02,48723.21,36.93,15979.23,7167.2,9642.71,52961.26,39456.81,2025-03-31 11:36:09,Gray LLC,entertainment,Harpertown,False,False,False,Phishing,8
+1017,67442.41,41833.42,20.75,10108.14,10821.74,9843.84,48281.43,41555.87,2025-02-04 02:37:46,"Hancock, Brock and Soto",bills,Port Janet,True,False,True,None,8
+1017,46824.12,61898.03,15.07,17041.26,5827.98,12227.42,26798.36,69714.01,2025-02-11 21:49:03,Miller-Mejia,entertainment,Lake Krista,True,True,False,None,9
+1017,82642.03,31917.02,89.2,6487.08,4701.79,9907.07,52360.89,820.22,2025-03-05 22:56:46,Ferguson-Bradshaw,salary,Jakeberg,False,False,False,Account lockout,4
+1017,57508.01,31602.78,35.79,20145.78,8660.02,8511.69,32230.01,62149.14,2025-02-21 13:30:26,Carter-Conner,travel,Baileyside,False,True,False,Malware,5
+1017,39714.11,34006.07,74.79,17362.99,7246.92,10928.17,24943.71,35871.55,2025-03-03 04:34:17,Brown and Sons,groceries,Lake Adam,True,False,True,None,5
+1017,37149.29,18761.04,30.37,16280.15,6468.15,11378.94,20798.96,79522.63,2025-02-14 14:24:18,Barnett-Martin,travel,Chadfurt,False,True,False,Account lockout,8
+1017,55789.67,34742.45,64.52,19913.45,9062.53,6544.78,25462.95,9752.57,2025-04-04 20:21:31,Jackson Ltd,entertainment,Port Gavin,True,False,False,Phishing,7
+1017,47318.45,32408.67,70.82,23327.37,8365.7,10194.8,24177.35,59026.13,2025-03-15 05:24:47,"Lewis, Meyer and Martin",entertainment,Port Leonardside,True,True,True,None,9
+1017,58568.01,41503.94,57.65,20071.85,7153.88,10402.35,32556.24,48356.8,2025-01-26 19:27:45,Roman-Crane,bills,Gonzalesbury,True,False,False,None,8
+1017,55678.85,43417.56,47.73,5795.63,6079.54,8404.87,32408.61,64411.39,2025-03-21 08:22:17,Jones LLC,bills,New Davidfort,False,True,False,Malware,2
+1017,49126.05,58761.71,42.95,8602.12,9308.69,11751.41,30045.69,6952.93,2025-02-21 16:22:19,Elliott-Miller,groceries,Joshualand,False,False,False,Phishing,4
+1017,39838.48,49504.24,37.91,11875.91,8975.3,8699.89,36554.07,58208.39,2025-02-04 09:00:50,Saunders-Wade,bills,Lake Hector,True,True,False,None,6
+1017,31821.83,34230.96,84.36,15130.46,7851.24,9251.15,47859.69,56367.72,2025-02-28 23:02:36,"Valentine, Rios and Fleming",entertainment,Justinport,True,True,True,Malware,2
+1017,44641.82,31015.85,76.45,17588.3,10769.96,8653.86,44243.31,56285.68,2025-01-20 17:26:24,Hernandez-Hall,entertainment,New Donald,True,True,False,None,7
+1017,60276.79,44919.19,87.2,11371.28,6394.87,9031.16,7726.53,60547.02,2025-01-28 19:14:26,Golden-Obrien,salary,New Seanchester,True,True,False,Account lockout,3
+1017,52569.12,26797.67,19.94,15933.83,5711.71,6807.45,-8308.82,67808.56,2025-03-09 23:26:22,Cross PLC,entertainment,Port Gregorychester,False,True,True,Account lockout,3
+1017,35051.13,58314.59,68.47,11223.09,6962.14,6119.9,44014.8,80596.41,2025-03-07 11:09:09,Rojas-Martinez,groceries,Hernandezside,True,True,False,Account lockout,2
+1017,52078.17,51794.4,85.07,11942.41,7931.62,12189.01,9496.82,27347.16,2025-01-20 04:11:32,Chapman-Weaver,shopping,West Matthew,True,False,True,Unauthorized login,8
+1017,54623.81,35308.24,24.5,7966.69,8365.01,7306.08,26628.52,82592.42,2025-01-24 17:39:20,Smith-Garcia,salary,Garciafort,False,True,False,None,6
+1017,39393.71,22868.65,15.32,10383.83,7638.15,7017.22,12448.3,50076.44,2025-02-20 15:41:37,Ryan PLC,salary,Dariusside,False,True,False,Malware,1
+1017,51844.7,53538.72,69.29,8241.58,8528.08,4693.22,2970.29,8167.3,2025-04-06 18:05:59,Sampson-Ferguson,groceries,East Daniel,True,False,False,Account lockout,1
+1017,50698.5,38854.6,55.96,10120.63,6122.69,7722.08,38121.94,6325.82,2025-02-23 19:37:25,"Dawson, Bryan and Brown",groceries,North Rhonda,False,False,False,None,7
+1017,36284.36,52378.16,77.35,20268.21,10165.65,6353.82,41387.33,33756.71,2025-03-01 20:03:04,Alexander Group,bills,Catherinemouth,True,False,False,None,8

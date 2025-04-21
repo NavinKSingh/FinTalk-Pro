@@ -1,0 +1,201 @@
+transaction_id,transaction_date,transaction_time,transaction_category,merchant,amount,user_id,recurring_flag,subscription_type,is_investment,refined_category,balance
+T1000,1999-08-02,18:53:16.755,Groceries,Groceries Inc.,-15431,user_ankit,False,Groceries,False,Groceries,84569
+T1001,1981-01-29,18:53:15.755,Freelance,Employer Pvt Ltd,69336,user_ankit,False,Freelance,False,Freelance,153905
+T1002,1981-03-05,18:53:14.755,SIP,SIP Inc.,-1857,user_ankit,True,Financial Services,True,SIP,152048
+T1003,2014-11-17,18:53:13.755,Dining,Dining Inc.,-14084,user_ankit,False,Dining,False,Dining,137964
+T1004,2019-01-31,18:53:12.755,Groceries,Groceries Inc.,-6967,user_ankit,False,Groceries,False,Groceries,130997
+T1005,2007-01-20,18:53:11.755,Spotify,Spotify Inc.,-17127,user_ankit,True,Entertainment,False,Spotify,113870
+T1006,2023-09-10,18:53:10.755,Salary,Employer Pvt Ltd,43246,user_ankit,False,Salary,False,Salary,157116
+T1007,2008-05-27,18:53:09.755,Salary,Employer Pvt Ltd,58654,user_ankit,False,Salary,False,Salary,215770
+T1008,1993-11-22,18:53:08.755,Spotify,Spotify Inc.,-8456,user_ankit,False,Entertainment,False,Spotify,207314
+T1009,1986-01-14,18:53:07.755,Freelance,Employer Pvt Ltd,75637,user_ankit,True,Freelance,False,Freelance,282951
+T1010,1986-11-19,18:53:06.755,Insurance,Insurance Inc.,-11581,user_ankit,True,Financial Services,False,Insurance,271370
+T1011,1995-09-12,18:53:05.755,Insurance,Insurance Inc.,-1775,user_ankit,True,Financial Services,False,Insurance,269595
+T1012,2011-02-07,18:53:04.755,Dining,Dining Inc.,-5401,user_ankit,True,Dining,False,Dining,264194
+T1013,1996-04-13,18:53:03.755,Insurance,Insurance Inc.,-602,user_ankit,True,Financial Services,False,Insurance,263592
+T1014,1989-02-01,18:53:02.755,SIP,SIP Inc.,-1798,user_ankit,False,Financial Services,True,SIP,261794
+T1015,1982-01-10,18:53:01.755,Insurance,Insurance Inc.,-3231,user_ankit,True,Financial Services,False,Insurance,258563
+T1016,1985-02-27,18:53:00.755,Rent,Rent Inc.,-13972,user_ankit,True,Rent,False,Rent,244591
+T1017,1982-03-07,18:52:59.755,Spotify,Spotify Inc.,-13843,user_ankit,True,Entertainment,False,Spotify,230748
+T1018,1997-05-06,18:52:58.755,Salary,Employer Pvt Ltd,47142,user_ankit,True,Salary,False,Salary,277890
+T1019,2010-11-01,18:52:57.755,Rent,Rent Inc.,-11213,user_ankit,True,Rent,False,Rent,266677
+T1020,2003-11-06,18:52:56.755,Dining,Dining Inc.,-6855,user_ankit,True,Dining,False,Dining,259822
+T1021,2001-02-18,18:52:55.755,Dining,Dining Inc.,-9933,user_ankit,True,Dining,False,Dining,249889
+T1022,1987-09-23,18:52:54.755,Rent,Rent Inc.,-18887,user_ankit,True,Rent,False,Rent,231002
+T1023,2007-09-27,18:52:53.755,Rent,Rent Inc.,-17756,user_ankit,False,Rent,False,Rent,213246
+T1024,2021-09-15,18:52:52.755,Groceries,Groceries Inc.,-9151,user_ankit,True,Groceries,False,Groceries,204095
+T1025,1997-04-12,18:52:51.755,Salary,Employer Pvt Ltd,78966,user_ankit,True,Salary,False,Salary,283061
+T1026,2009-07-31,18:52:50.755,Freelance,Employer Pvt Ltd,52326,user_ankit,True,Freelance,False,Freelance,335387
+T1027,1996-04-01,18:52:49.755,Salary,Employer Pvt Ltd,70385,user_ankit,False,Salary,False,Salary,405772
+T1028,2000-10-09,18:52:48.755,Groceries,Groceries Inc.,-11186,user_ankit,True,Groceries,False,Groceries,394586
+T1029,1986-03-13,18:52:47.755,Freelance,Employer Pvt Ltd,59774,user_ankit,True,Freelance,False,Freelance,454360
+T1030,1987-09-30,18:52:46.755,Salary,Employer Pvt Ltd,67433,user_ankit,True,Salary,False,Salary,521793
+T1031,2007-08-01,18:52:45.755,SIP,SIP Inc.,-13380,user_ankit,True,Financial Services,True,SIP,508413
+T1032,1982-06-21,18:52:44.755,Insurance,Insurance Inc.,-12058,user_ankit,True,Financial Services,False,Insurance,496355
+T1033,2017-05-19,18:52:43.755,Rent,Rent Inc.,-5990,user_ankit,False,Rent,False,Rent,490365
+T1034,2007-09-16,18:52:42.755,Insurance,Insurance Inc.,-14943,user_ankit,True,Financial Services,False,Insurance,475422
+T1035,2009-11-20,18:52:41.755,SIP,SIP Inc.,-1653,user_ankit,False,Financial Services,True,SIP,473769
+T1036,2006-06-20,18:52:40.755,Salary,Employer Pvt Ltd,57469,user_ankit,False,Salary,False,Salary,531238
+T1037,2000-09-30,18:52:39.755,SIP,SIP Inc.,-8357,user_ankit,True,Financial Services,True,SIP,522881
+T1038,1987-04-18,18:52:38.755,Spotify,Spotify Inc.,-8657,user_ankit,True,Entertainment,False,Spotify,514224
+T1039,1985-05-13,18:52:37.755,Rent,Rent Inc.,-18532,user_ankit,True,Rent,False,Rent,495692
+T1040,2020-06-02,18:52:36.755,Dining,Dining Inc.,-3036,user_ankit,True,Dining,False,Dining,492656
+T1041,1984-11-06,18:52:35.755,Salary,Employer Pvt Ltd,33318,user_ankit,True,Salary,False,Salary,525974
+T1042,1989-08-24,18:52:34.755,Spotify,Spotify Inc.,-12059,user_ankit,True,Entertainment,False,Spotify,513915
+T1043,1994-04-24,18:52:33.755,Rent,Rent Inc.,-12946,user_ankit,False,Rent,False,Rent,500969
+T1044,2002-10-26,18:52:32.755,Spotify,Spotify Inc.,-9964,user_ankit,True,Entertainment,False,Spotify,491005
+T1045,1990-01-19,18:52:31.755,SIP,SIP Inc.,-10112,user_ankit,True,Financial Services,True,SIP,480893
+T1046,2014-04-10,18:52:30.756,Salary,Employer Pvt Ltd,39064,user_ankit,False,Salary,False,Salary,519957
+T1047,2018-01-19,18:52:29.756,Dining,Dining Inc.,-3949,user_ankit,False,Dining,False,Dining,516008
+T1048,2016-05-05,18:52:28.756,Spotify,Spotify Inc.,-2924,user_ankit,True,Entertainment,False,Spotify,513084
+T1049,2021-08-03,18:52:27.756,Rent,Rent Inc.,-10796,user_ankit,False,Rent,False,Rent,502288
+T1050,2010-01-23,18:52:26.756,Salary,Employer Pvt Ltd,78170,user_ankit,False,Salary,False,Salary,580458
+T1051,1990-03-08,18:52:25.756,Spotify,Spotify Inc.,-19702,user_ankit,False,Entertainment,False,Spotify,560756
+T1052,2001-11-03,18:52:24.756,Salary,Employer Pvt Ltd,34316,user_ankit,False,Salary,False,Salary,595072
+T1053,2018-05-27,18:52:23.756,Salary,Employer Pvt Ltd,68394,user_ankit,True,Salary,False,Salary,663466
+T1054,1993-02-09,18:52:22.756,Salary,Employer Pvt Ltd,52464,user_ankit,False,Salary,False,Salary,715930
+T1055,1996-08-28,18:52:21.756,Freelance,Employer Pvt Ltd,71592,user_ankit,True,Freelance,False,Freelance,787522
+T1056,1995-02-20,18:52:20.756,Groceries,Groceries Inc.,-15620,user_ankit,True,Groceries,False,Groceries,771902
+T1057,2021-04-19,18:52:19.756,Dining,Dining Inc.,-10221,user_ankit,False,Dining,False,Dining,761681
+T1058,2013-11-29,18:52:18.756,Insurance,Insurance Inc.,-11336,user_ankit,True,Financial Services,False,Insurance,750345
+T1059,2006-10-27,18:52:17.756,Freelance,Employer Pvt Ltd,53964,user_ankit,False,Freelance,False,Freelance,804309
+T1060,1994-05-08,18:52:16.756,Spotify,Spotify Inc.,-18306,user_ankit,True,Entertainment,False,Spotify,786003
+T1061,1980-10-17,18:52:15.756,Spotify,Spotify Inc.,-16550,user_ankit,True,Entertainment,False,Spotify,769453
+T1062,2023-04-24,18:52:14.756,Salary,Employer Pvt Ltd,68369,user_ankit,True,Salary,False,Salary,837822
+T1063,1998-06-17,18:52:13.756,Rent,Rent Inc.,-13752,user_ankit,False,Rent,False,Rent,824070
+T1064,2017-07-29,18:52:12.756,Spotify,Spotify Inc.,-13320,user_ankit,True,Entertainment,False,Spotify,810750
+T1065,1998-05-20,18:52:11.756,Freelance,Employer Pvt Ltd,62032,user_ankit,True,Freelance,False,Freelance,872782
+T1066,1988-08-28,18:52:10.756,Groceries,Groceries Inc.,-552,user_ankit,True,Groceries,False,Groceries,872230
+T1067,1985-06-24,18:52:09.756,Spotify,Spotify Inc.,-1839,user_ankit,False,Entertainment,False,Spotify,870391
+T1068,2016-03-02,18:52:08.756,Freelance,Employer Pvt Ltd,38439,user_ankit,False,Freelance,False,Freelance,908830
+T1069,1992-07-26,18:52:07.756,Rent,Rent Inc.,-7474,user_ankit,False,Rent,False,Rent,901356
+T1070,2004-06-14,18:52:06.756,Spotify,Spotify Inc.,-7940,user_ankit,True,Entertainment,False,Spotify,893416
+T1071,1981-09-28,18:52:05.756,Groceries,Groceries Inc.,-19301,user_ankit,True,Groceries,False,Groceries,874115
+T1072,2004-04-29,18:52:04.756,SIP,SIP Inc.,-19672,user_ankit,False,Financial Services,True,SIP,854443
+T1073,2017-06-22,18:52:03.756,Spotify,Spotify Inc.,-2490,user_ankit,False,Entertainment,False,Spotify,851953
+T1074,1999-03-29,18:52:02.756,Groceries,Groceries Inc.,-2192,user_ankit,True,Groceries,False,Groceries,849761
+T1075,1985-12-09,18:52:01.756,Spotify,Spotify Inc.,-13162,user_ankit,True,Entertainment,False,Spotify,836599
+T1076,2007-10-13,18:52:00.756,Spotify,Spotify Inc.,-7752,user_ankit,False,Entertainment,False,Spotify,828847
+T1077,2012-07-03,18:51:59.756,Salary,Employer Pvt Ltd,76596,user_ankit,True,Salary,False,Salary,905443
+T1078,2023-01-30,18:51:58.756,Salary,Employer Pvt Ltd,75510,user_ankit,True,Salary,False,Salary,980953
+T1079,2000-11-22,18:51:57.756,Freelance,Employer Pvt Ltd,42046,user_ankit,False,Freelance,False,Freelance,1022999
+T1080,2018-02-22,18:51:56.756,SIP,SIP Inc.,-19866,user_ankit,True,Financial Services,True,SIP,1003133
+T1081,2019-05-15,18:51:55.756,SIP,SIP Inc.,-3223,user_ankit,False,Financial Services,True,SIP,999910
+T1082,1992-02-21,18:51:54.756,Freelance,Employer Pvt Ltd,52157,user_ankit,True,Freelance,False,Freelance,1052067
+T1083,1999-04-10,18:51:53.756,Freelance,Employer Pvt Ltd,78077,user_ankit,False,Freelance,False,Freelance,1130144
+T1084,2022-05-19,18:51:52.756,Insurance,Insurance Inc.,-11004,user_ankit,False,Financial Services,False,Insurance,1119140
+T1085,1998-07-13,18:51:51.756,Salary,Employer Pvt Ltd,71410,user_ankit,True,Salary,False,Salary,1190550
+T1086,1994-11-15,18:51:50.756,Dining,Dining Inc.,-4799,user_ankit,True,Dining,False,Dining,1185751
+T1087,1986-06-12,18:51:49.756,Groceries,Groceries Inc.,-5896,user_ankit,False,Groceries,False,Groceries,1179855
+T1088,2015-10-10,18:51:48.756,Salary,Employer Pvt Ltd,31734,user_ankit,False,Salary,False,Salary,1211589
+T1089,1988-02-04,18:51:47.756,SIP,SIP Inc.,-2583,user_ankit,True,Financial Services,True,SIP,1209006
+T1090,1991-05-21,18:51:46.756,Spotify,Spotify Inc.,-5530,user_ankit,True,Entertainment,False,Spotify,1203476
+T1091,2003-11-17,18:51:45.756,Spotify,Spotify Inc.,-5323,user_ankit,False,Entertainment,False,Spotify,1198153
+T1092,2001-08-06,18:51:44.757,Dining,Dining Inc.,-3244,user_ankit,True,Dining,False,Dining,1194909
+T1093,2001-07-20,18:51:43.757,Rent,Rent Inc.,-16115,user_ankit,False,Rent,False,Rent,1178794
+T1094,1997-07-31,18:51:42.757,Rent,Rent Inc.,-6050,user_ankit,True,Rent,False,Rent,1172744
+T1095,2014-07-06,18:51:41.757,SIP,SIP Inc.,-13943,user_ankit,True,Financial Services,True,SIP,1158801
+T1096,1998-01-05,18:51:40.757,Insurance,Insurance Inc.,-14568,user_ankit,True,Financial Services,False,Insurance,1144233
+T1097,2005-06-24,18:51:39.757,SIP,SIP Inc.,-16984,user_ankit,False,Financial Services,True,SIP,1127249
+T1098,2004-10-30,18:51:38.757,Freelance,Employer Pvt Ltd,68656,user_ankit,False,Freelance,False,Freelance,1195905
+T1099,2014-10-06,18:51:37.757,Spotify,Spotify Inc.,-6461,user_ankit,False,Entertainment,False,Spotify,1189444
+T1100,1995-02-16,18:51:36.757,Groceries,Groceries Inc.,-4287,user_ankit,False,Groceries,False,Groceries,1185157
+T1101,2004-05-30,18:51:35.757,SIP,SIP Inc.,-11753,user_ankit,False,Financial Services,True,SIP,1173404
+T1102,2019-02-17,18:51:34.757,SIP,SIP Inc.,-13826,user_ankit,False,Financial Services,True,SIP,1159578
+T1103,1994-09-23,18:51:33.757,Rent,Rent Inc.,-13657,user_ankit,False,Rent,False,Rent,1145921
+T1104,1992-05-23,18:51:32.757,Dining,Dining Inc.,-3845,user_ankit,False,Dining,False,Dining,1142076
+T1105,2000-12-07,18:51:31.757,SIP,SIP Inc.,-16447,user_ankit,True,Financial Services,True,SIP,1125629
+T1106,2012-12-13,18:51:30.757,Dining,Dining Inc.,-7917,user_ankit,True,Dining,False,Dining,1117712
+T1107,2021-01-02,18:51:29.757,Insurance,Insurance Inc.,-924,user_ankit,True,Financial Services,False,Insurance,1116788
+T1108,2022-04-11,18:51:28.757,Rent,Rent Inc.,-18048,user_ankit,True,Rent,False,Rent,1098740
+T1109,2016-11-29,18:51:27.757,Insurance,Insurance Inc.,-7669,user_ankit,True,Financial Services,False,Insurance,1091071
+T1110,2020-12-06,18:51:26.757,Freelance,Employer Pvt Ltd,63919,user_ankit,False,Freelance,False,Freelance,1154990
+T1111,1997-04-29,18:51:25.757,Salary,Employer Pvt Ltd,47518,user_ankit,False,Salary,False,Salary,1202508
+T1112,2009-11-09,18:51:24.757,Rent,Rent Inc.,-16626,user_ankit,True,Rent,False,Rent,1185882
+T1113,1985-09-25,18:51:23.757,Freelance,Employer Pvt Ltd,34987,user_ankit,False,Freelance,False,Freelance,1220869
+T1114,2005-05-22,18:51:22.757,Groceries,Groceries Inc.,-19194,user_ankit,True,Groceries,False,Groceries,1201675
+T1115,1996-03-10,18:51:21.757,Rent,Rent Inc.,-3481,user_ankit,False,Rent,False,Rent,1198194
+T1116,1983-05-06,18:51:20.757,Insurance,Insurance Inc.,-8097,user_ankit,True,Financial Services,False,Insurance,1190097
+T1117,2007-05-07,18:51:19.757,SIP,SIP Inc.,-15507,user_ankit,False,Financial Services,True,SIP,1174590
+T1118,1993-09-17,18:51:18.757,SIP,SIP Inc.,-859,user_ankit,False,Financial Services,True,SIP,1173731
+T1119,2014-02-09,18:51:17.757,Spotify,Spotify Inc.,-13023,user_ankit,True,Entertainment,False,Spotify,1160708
+T1120,2000-02-05,18:51:16.757,Groceries,Groceries Inc.,-7108,user_ankit,True,Groceries,False,Groceries,1153600
+T1121,2022-08-27,18:51:15.757,Insurance,Insurance Inc.,-9230,user_ankit,False,Financial Services,False,Insurance,1144370
+T1122,1991-06-09,18:51:14.757,Rent,Rent Inc.,-11969,user_ankit,True,Rent,False,Rent,1132401
+T1123,1980-08-19,18:51:13.757,Insurance,Insurance Inc.,-3664,user_ankit,True,Financial Services,False,Insurance,1128737
+T1124,1981-08-13,18:51:12.757,Freelance,Employer Pvt Ltd,73431,user_ankit,True,Freelance,False,Freelance,1202168
+T1125,2010-11-15,18:51:11.757,Groceries,Groceries Inc.,-1441,user_ankit,True,Groceries,False,Groceries,1200727
+T1126,2023-08-31,18:51:10.757,Dining,Dining Inc.,-5942,user_ankit,True,Dining,False,Dining,1194785
+T1127,2021-05-01,18:51:09.757,Freelance,Employer Pvt Ltd,68920,user_ankit,False,Freelance,False,Freelance,1263705
+T1128,1983-10-14,18:51:08.757,Salary,Employer Pvt Ltd,31782,user_ankit,False,Salary,False,Salary,1295487
+T1129,2008-12-20,18:51:07.757,SIP,SIP Inc.,-8801,user_ankit,True,Financial Services,True,SIP,1286686
+T1130,1989-12-09,18:51:06.757,Dining,Dining Inc.,-526,user_ankit,False,Dining,False,Dining,1286160
+T1131,2015-02-12,18:51:05.757,Groceries,Groceries Inc.,-15592,user_ankit,False,Groceries,False,Groceries,1270568
+T1132,1992-04-03,18:51:04.757,Freelance,Employer Pvt Ltd,42644,user_ankit,True,Freelance,False,Freelance,1313212
+T1133,1998-10-12,18:51:03.757,Groceries,Groceries Inc.,-4059,user_ankit,False,Groceries,False,Groceries,1309153
+T1134,2014-02-04,18:51:02.757,SIP,SIP Inc.,-13489,user_ankit,False,Financial Services,True,SIP,1295664
+T1135,1985-10-08,18:51:01.757,Freelance,Employer Pvt Ltd,30049,user_ankit,False,Freelance,False,Freelance,1325713
+T1136,1980-04-01,18:51:00.757,Rent,Rent Inc.,-12449,user_ankit,True,Rent,False,Rent,1313264
+T1137,1987-02-10,18:50:59.757,Dining,Dining Inc.,-4266,user_ankit,False,Dining,False,Dining,1308998
+T1138,2019-04-15,18:50:58.757,Rent,Rent Inc.,-5729,user_ankit,True,Rent,False,Rent,1303269
+T1139,1993-12-04,18:50:57.757,SIP,SIP Inc.,-1392,user_ankit,False,Financial Services,True,SIP,1301877
+T1140,1982-09-03,18:50:56.757,Spotify,Spotify Inc.,-9954,user_ankit,False,Entertainment,False,Spotify,1291923
+T1141,2011-06-13,18:50:55.757,Rent,Rent Inc.,-9255,user_ankit,True,Rent,False,Rent,1282668
+T1142,2015-03-28,18:50:54.757,Groceries,Groceries Inc.,-7201,user_ankit,True,Groceries,False,Groceries,1275467
+T1143,1998-07-11,18:50:53.757,Dining,Dining Inc.,-15652,user_ankit,False,Dining,False,Dining,1259815
+T1144,2018-03-27,18:50:52.757,Groceries,Groceries Inc.,-4266,user_ankit,True,Groceries,False,Groceries,1255549
+T1145,1996-12-20,18:50:51.757,Salary,Employer Pvt Ltd,55322,user_ankit,False,Salary,False,Salary,1310871
+T1146,1995-12-10,18:50:50.758,Spotify,Spotify Inc.,-17390,user_ankit,True,Entertainment,False,Spotify,1293481
+T1147,2006-09-28,18:50:49.758,Dining,Dining Inc.,-9799,user_ankit,True,Dining,False,Dining,1283682
+T1148,1991-11-30,18:50:48.758,Rent,Rent Inc.,-5555,user_ankit,False,Rent,False,Rent,1278127
+T1149,2011-10-30,18:50:47.758,Salary,Employer Pvt Ltd,58190,user_ankit,False,Salary,False,Salary,1336317
+T1150,1984-09-04,18:50:46.758,Insurance,Insurance Inc.,-14817,user_ankit,False,Financial Services,False,Insurance,1321500
+T1151,2000-08-13,18:50:45.758,Insurance,Insurance Inc.,-12649,user_ankit,True,Financial Services,False,Insurance,1308851
+T1152,2022-03-18,18:50:44.758,Dining,Dining Inc.,-17507,user_ankit,False,Dining,False,Dining,1291344
+T1153,1999-08-30,18:50:43.758,Insurance,Insurance Inc.,-7032,user_ankit,True,Financial Services,False,Insurance,1284312
+T1154,2000-04-07,18:50:42.758,Spotify,Spotify Inc.,-19002,user_ankit,True,Entertainment,False,Spotify,1265310
+T1155,1989-06-30,18:50:41.758,Groceries,Groceries Inc.,-10258,user_ankit,True,Groceries,False,Groceries,1255052
+T1156,2002-12-08,18:50:40.758,SIP,SIP Inc.,-13229,user_ankit,False,Financial Services,True,SIP,1241823
+T1157,1993-04-07,18:50:39.758,Salary,Employer Pvt Ltd,40188,user_ankit,False,Salary,False,Salary,1282011
+T1158,2005-04-26,18:50:38.758,Freelance,Employer Pvt Ltd,37375,user_ankit,False,Freelance,False,Freelance,1319386
+T1159,1999-03-24,18:50:37.758,Salary,Employer Pvt Ltd,72829,user_ankit,False,Salary,False,Salary,1392215
+T1160,1981-04-08,18:50:36.758,SIP,SIP Inc.,-8944,user_ankit,False,Financial Services,True,SIP,1383271
+T1161,1986-07-22,18:50:35.758,Salary,Employer Pvt Ltd,76962,user_ankit,True,Salary,False,Salary,1460233
+T1162,1999-12-15,18:50:34.758,SIP,SIP Inc.,-12200,user_ankit,True,Financial Services,True,SIP,1448033
+T1163,1992-07-02,18:50:33.758,Freelance,Employer Pvt Ltd,71381,user_ankit,False,Freelance,False,Freelance,1519414
+T1164,2018-07-19,18:50:32.758,Dining,Dining Inc.,-6359,user_ankit,False,Dining,False,Dining,1513055
+T1165,1982-11-13,18:50:31.758,SIP,SIP Inc.,-8794,user_ankit,False,Financial Services,True,SIP,1504261
+T1166,2013-04-09,18:50:30.758,Salary,Employer Pvt Ltd,52281,user_ankit,False,Salary,False,Salary,1556542
+T1167,1991-03-30,18:50:29.758,Groceries,Groceries Inc.,-18972,user_ankit,False,Groceries,False,Groceries,1537570
+T1168,2021-05-19,18:50:28.758,Groceries,Groceries Inc.,-19589,user_ankit,True,Groceries,False,Groceries,1517981
+T1169,1984-05-31,18:50:27.758,Salary,Employer Pvt Ltd,63663,user_ankit,False,Salary,False,Salary,1581644
+T1170,2018-02-18,18:50:26.758,Spotify,Spotify Inc.,-11485,user_ankit,False,Entertainment,False,Spotify,1570159
+T1171,2004-10-04,18:50:25.758,Dining,Dining Inc.,-11924,user_ankit,False,Dining,False,Dining,1558235
+T1172,1982-07-29,18:50:24.758,Spotify,Spotify Inc.,-2202,user_ankit,False,Entertainment,False,Spotify,1556033
+T1173,2023-04-03,18:50:23.758,SIP,SIP Inc.,-14080,user_ankit,True,Financial Services,True,SIP,1541953
+T1174,2015-04-22,18:50:22.758,Spotify,Spotify Inc.,-13420,user_ankit,True,Entertainment,False,Spotify,1528533
+T1175,2008-02-12,18:50:21.758,Freelance,Employer Pvt Ltd,33027,user_ankit,False,Freelance,False,Freelance,1561560
+T1176,1987-07-21,18:50:20.758,Rent,Rent Inc.,-8394,user_ankit,False,Rent,False,Rent,1553166
+T1177,2005-05-30,18:50:19.758,Groceries,Groceries Inc.,-13663,user_ankit,True,Groceries,False,Groceries,1539503
+T1178,2015-10-30,18:50:18.758,Rent,Rent Inc.,-12047,user_ankit,False,Rent,False,Rent,1527456
+T1179,2009-08-20,18:50:17.758,Dining,Dining Inc.,-17549,user_ankit,True,Dining,False,Dining,1509907
+T1180,2014-05-26,18:50:16.758,SIP,SIP Inc.,-16651,user_ankit,False,Financial Services,True,SIP,1493256
+T1181,1981-12-02,18:50:15.758,Spotify,Spotify Inc.,-3297,user_ankit,True,Entertainment,False,Spotify,1489959
+T1182,2010-04-01,18:50:14.758,Rent,Rent Inc.,-13084,user_ankit,True,Rent,False,Rent,1476875
+T1183,2013-12-31,18:50:13.758,Insurance,Insurance Inc.,-4930,user_ankit,False,Financial Services,False,Insurance,1471945
+T1184,2016-04-10,18:50:12.758,SIP,SIP Inc.,-10360,user_ankit,False,Financial Services,True,SIP,1461585
+T1185,2004-04-07,18:50:11.758,Rent,Rent Inc.,-8218,user_ankit,False,Rent,False,Rent,1453367
+T1186,2017-05-02,18:50:10.758,Insurance,Insurance Inc.,-16995,user_ankit,False,Financial Services,False,Insurance,1436372
+T1187,2023-07-16,18:50:09.758,Groceries,Groceries Inc.,-6525,user_ankit,False,Groceries,False,Groceries,1429847
+T1188,1989-03-11,18:50:08.758,Salary,Employer Pvt Ltd,51749,user_ankit,True,Salary,False,Salary,1481596
+T1189,2000-11-27,18:50:07.758,Salary,Employer Pvt Ltd,61658,user_ankit,True,Salary,False,Salary,1543254
+T1190,2017-03-25,18:50:06.758,Salary,Employer Pvt Ltd,44956,user_ankit,True,Salary,False,Salary,1588210
+T1191,1999-08-02,18:50:05.758,Rent,Rent Inc.,-6435,user_ankit,False,Rent,False,Rent,1581775
+T1192,1981-06-13,18:50:04.758,Rent,Rent Inc.,-1291,user_ankit,True,Rent,False,Rent,1580484
+T1193,2010-07-04,18:50:03.758,Dining,Dining Inc.,-12059,user_ankit,True,Dining,False,Dining,1568425
+T1194,2021-09-05,18:50:02.758,Insurance,Insurance Inc.,-19605,user_ankit,True,Financial Services,False,Insurance,1548820
+T1195,2022-01-02,18:50:01.758,Rent,Rent Inc.,-19015,user_ankit,True,Rent,False,Rent,1529805
+T1196,1991-10-31,18:50:00.758,Insurance,Insurance Inc.,-4106,user_ankit,True,Financial Services,False,Insurance,1525699
+T1197,1982-08-15,18:49:59.758,Groceries,Groceries Inc.,-12693,user_ankit,True,Groceries,False,Groceries,1513006
+T1198,1989-07-10,18:49:58.758,Rent,Rent Inc.,-4533,user_ankit,True,Rent,False,Rent,1508473
+T1199,1993-08-15,18:49:57.758,SIP,SIP Inc.,-11986,user_ankit,False,Financial Services,True,SIP,1496487
