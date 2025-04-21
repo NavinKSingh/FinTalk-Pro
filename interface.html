@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Account Tracker</title>
+  <link rel="stylesheet" href="interface.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <!-- Adding Chart.js for creating charts -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <div class="dashboard">
+    <div class="sidebar">
+      <div class="avatar">👤</div>
+      <div class="month-buttons">
+        <button>Apr</button>
+        <button>Aug</button>
+        <button>Feb</button>
+        <button>Jan</button>
+        <button>Jul</button>
+        <button>Jun</button>
+        <button>Mar</button>
+        <button>May</button>
+        <button>Oct</button>
+        <button>Sep</button>
+      </div>
+      <div class="github">🐱</div>
+    </div>
+
+    <div class="main-content">
+      <h1 class="title">Account <span>Tracker</span></h1>
+
+      <div class="top-section">
+        <div class="balance-card card">
+          <p>Available Balance</p>
+          <h2>35,249</h2>
+          <div class="card-number">**** **** **** 0000 | 10/26</div>
+          <div class="card-icon"></div>
+        </div>
+        <div class="mini-card card">
+          <p>Income</p>
+          <h2>65,440</h2>
+        </div>
+        <div class="mini-card card">
+          <p>Spending</p>
+          <h2>30,191</h2>
+        </div>
+        <div class="sources-card card">
+          <div class="sources">
+            <p>YouTube: 10,940</p>
+            <p>Teachable: 4,500</p>
+            <p>Data with Decision: 50,000</p>
+          </div>
+          <!-- Canvas for Pie Chart -->
+          <canvas id="pie-chart-placeholder" width="400" height="400"></canvas>
+        </div>
+        <div class="top-spending card">
+          <h3>Top Spending</h3>
+          <ul>
+            <li>Groceries: 6,454</li>
+            <li>Cloth: 4,304</li>
+            <li>Entertainment: 1,813</li>
+            <li>Cash Loan: 1,500</li>
+            <li>Rent: 9,000</li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="bottom-section">
+        <div class="chart-card card">
+          <h3>Monthly Trends Income & Spending</h3>
+          <p>Max Spending: 14,000 | Max Income: 3,116</p>
+          <!-- Canvas for Monthly Chart -->
+          <canvas id="monthly-chart-placeholder" width="400" height="400"></canvas>
+        </div>
+        <div class="chart-card card">
+          <h3>Weekly Trends Income & Spending</h3>
+          <!-- Canvas for Weekly Chart -->
+          <canvas id="weekly-chart-placeholder" width="400" height="400"></canvas>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- JavaScript to render the charts -->
+  <script>
+    // Pie chart
+    var pieCtx = document.getElementById('pie-chart-placeholder').getContext('2d');
+    var pieChart = new Chart(pieCtx, {
+      type: 'pie',
+      data: {
+        labels: ['YouTube', 'Teachable', 'Data with Decision'],
+        datasets: [{
+          data: [10940, 4500, 50000],
+          backgroundColor: ['#4CAF50', '#FFC107', '#FF5722'],
+        }]
+      },
+      options: {
+        responsive: true,
+        plugins: {
+          legend: {
+            position: 'top',
+          },
+          tooltip: {
+            callbacks: {
+              label: function(tooltipItem) {
+                return tooltipItem.label + ': ' + tooltipItem.raw;
+              }
+            }
+          }
+        }
+      }
+    });
+
+    // Monthly chart (bar chart)
+    var monthlyCtx = document.getElementById('monthly-chart-placeholder').getContext('2d');
+    var monthlyChart = new Chart(monthlyCtx, {
+      type: 'bar',
+      data: {
+        labels: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct'],
+        datasets: [{
+          label: 'Income',
+          data: [3116, 3500, 4000, 3500, 3000, 4200, 3700, 3800, 3900, 4000],
+          backgroundColor: '#3b82f6',
+        }, {
+          label: 'Spending',
+          data: [2500, 2800, 3000, 2800, 2500, 3300, 3100, 3000, 3200, 3300],
+          backgroundColor: '#f97316',
+        }]
+      },
+      options: {
+        responsive: true,
+        scales: {
+          x: {
+            beginAtZero: true
+          },
+          y: {
+            beginAtZero: true
+          }
+        }
+      }
+    });
+
+    // Weekly chart (bar chart)
+    var weeklyCtx = document.getElementById('weekly-chart-placeholder').getContext('2d');
+    var weeklyChart = new Chart(weeklyCtx, {
+      type: 'bar',
+      data: {
+        labels: ['Week 1', 'Week 2', 'Week 3', 'Week 4'],
+        datasets: [{
+          label: 'Income',
+          data: [750, 800, 900, 850],
+          backgroundColor: '#3b82f6',
+        }, {
+          label: 'Spending',
+          data: [650, 700, 750, 700],
+          backgroundColor: '#f97316',
+        }]
+      },
+      options: {
+        responsive: true,
+        scales: {
+          x: {
+            beginAtZero: true
+          },
+          y: {
+            beginAtZero: true
+          }
+        }
+      }
+    });
+  </script>
+</body>
+</html>

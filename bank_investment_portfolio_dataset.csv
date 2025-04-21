@@ -1,0 +1,201 @@
+user_id,asset_type,asset_name,ticker,investment_amount,current_value,sector,risk_level,timestamp
+1,bond,Prologis Inc,VOO,42337.74,49044.56,Energy,High,2025-04-10
+2,bond,iShares Inc,NEE,28855.25,38176.16,Consumer Goods,Medium,2025-04-10
+4,stock,P&G Inc,MSFT,8942.4,13395.25,Real Estate,Medium,2025-04-10
+1,bond,Google Inc,AMZN,43742.11,50078.22,Utilities,Medium,2025-04-10
+7,bond,iShares Inc,TSLA,13390.71,19457.77,Utilities,Medium,2025-04-10
+6,stock,Amazon Inc,BND,41657.25,56448.33,Utilities,High,2025-04-10
+10,bond,Prologis Inc,BND,28975.76,42661.52,Consumer Goods,High,2025-04-10
+7,stock,iShares Inc,XOM,36264.21,48592.18,Technology,High,2025-04-10
+8,bond,Microsoft Inc,BND,24086.02,26179.85,Real Estate,Low,2025-04-10
+1,ETF,Google Inc,JNJ,27457.61,39167.04,Finance,High,2025-04-10
+8,stock,Prologis Inc,PG,40330.1,40142.29,Utilities,High,2025-04-10
+9,mutual fund,Prologis Inc,NEE,11245.16,11457.44,Utilities,Medium,2025-04-10
+4,bond,Google Inc,JNJ,46595.43,69855.93,Utilities,Low,2025-04-10
+6,mutual fund,Apple Inc,PLD,6452.09,9646.55,Finance,High,2025-04-10
+7,ETF,iShares Inc,BND,37189.73,37336.34,Finance,High,2025-04-10
+7,mutual fund,Microsoft Inc,GOOGL,27604.88,32919.48,Finance,High,2025-04-10
+10,bond,Exxon Inc,JNJ,11821.23,14230.01,Utilities,High,2025-04-10
+2,ETF,Microsoft Inc,JNJ,38104.85,52486.11,Finance,High,2025-04-10
+9,mutual fund,Google Inc,JNJ,4593.63,3738.69,Finance,Low,2025-04-10
+8,bond,Microsoft Inc,PG,4713.89,5730.59,Real Estate,High,2025-04-10
+9,stock,Vanguard Inc,PLD,6803.55,8138.82,Finance,Low,2025-04-10
+8,mutual fund,NextEra Inc,VOO,17254.24,14009.53,Real Estate,Low,2025-04-10
+2,mutual fund,NextEra Inc,GOOGL,13680.12,14597.11,Real Estate,High,2025-04-10
+4,mutual fund,Tesla Inc,BND,20301.74,19327.56,Finance,High,2025-04-10
+2,bond,Exxon Inc,PLD,13356.1,15826.38,Healthcare,High,2025-04-10
+10,bond,Johnson Inc,JPM,31932.38,33723.01,Energy,Low,2025-04-10
+1,bond,Microsoft Inc,AMZN,47987.02,50689.13,Healthcare,Low,2025-04-10
+8,mutual fund,Apple Inc,GOOGL,4480.39,4969.05,Finance,High,2025-04-10
+10,bond,Exxon Inc,XOM,7130.49,7769.13,Consumer Goods,Medium,2025-04-10
+4,mutual fund,Prologis Inc,AMZN,21344.21,25274.54,Consumer Goods,Low,2025-04-10
+7,ETF,Johnson Inc,VOO,27220.32,39834.05,Utilities,Low,2025-04-10
+3,stock,Prologis Inc,MSFT,42324.88,59562.0,Healthcare,Medium,2025-04-10
+9,bond,NextEra Inc,XOM,37325.51,42756.75,Energy,High,2025-04-10
+7,ETF,Vanguard Inc,JPM,5284.15,4301.75,Utilities,Low,2025-04-10
+6,mutual fund,JPMorgan Inc,GOOGL,18172.51,18028.5,Technology,Low,2025-04-10
+7,stock,Vanguard Inc,JNJ,12150.77,16429.85,Utilities,High,2025-04-10
+6,ETF,Tesla Inc,JPM,36477.29,29348.69,Utilities,Medium,2025-04-10
+6,ETF,iShares Inc,PG,24686.79,32092.13,Finance,Medium,2025-04-10
+7,stock,NextEra Inc,AMZN,13477.27,15979.32,Technology,Medium,2025-04-10
+1,ETF,NextEra Inc,GOOGL,9340.68,13970.14,Healthcare,Medium,2025-04-10
+7,stock,NextEra Inc,AAPL,40773.6,34933.99,Technology,Medium,2025-04-10
+3,ETF,Google Inc,JPM,44244.6,61969.88,Consumer Goods,Medium,2025-04-10
+8,stock,P&G Inc,PG,41281.54,55620.19,Technology,Medium,2025-04-10
+1,stock,JPMorgan Inc,JNJ,4996.54,6502.05,Technology,Medium,2025-04-10
+4,ETF,Amazon Inc,VOO,40241.8,36561.47,Finance,Low,2025-04-10
+10,mutual fund,Exxon Inc,XOM,38329.19,31397.25,Healthcare,Medium,2025-04-10
+2,ETF,Google Inc,XOM,38769.27,54657.95,Technology,High,2025-04-10
+4,bond,Google Inc,AMZN,11318.55,10059.66,Real Estate,Medium,2025-04-10
+1,stock,JPMorgan Inc,GOOGL,17873.09,25364.01,Real Estate,High,2025-04-10
+2,stock,Johnson Inc,VOO,23164.56,31681.78,Healthcare,High,2025-04-10
+10,ETF,Johnson Inc,NEE,38990.23,55662.79,Technology,Low,2025-04-10
+5,mutual fund,JPMorgan Inc,PG,21927.75,32337.42,Technology,High,2025-04-10
+9,mutual fund,Prologis Inc,BND,18523.61,17543.69,Real Estate,High,2025-04-10
+3,stock,Prologis Inc,JNJ,45442.53,57531.34,Energy,Low,2025-04-10
+8,mutual fund,iShares Inc,PG,31955.4,25796.89,Healthcare,High,2025-04-10
+2,bond,Prologis Inc,BND,23063.7,31135.91,Healthcare,Medium,2025-04-10
+5,mutual fund,iShares Inc,TSLA,41498.03,34195.37,Real Estate,High,2025-04-10
+6,mutual fund,NextEra Inc,VOO,33254.71,41405.22,Healthcare,High,2025-04-10
+10,stock,Microsoft Inc,PLD,49873.36,64227.2,Finance,High,2025-04-10
+7,bond,Johnson Inc,VOO,22602.37,25634.82,Energy,Low,2025-04-10
+8,stock,P&G Inc,JNJ,43683.92,37254.97,Technology,Low,2025-04-10
+3,mutual fund,Apple Inc,MSFT,1049.34,1052.58,Real Estate,Low,2025-04-10
+1,mutual fund,Johnson Inc,PG,47670.56,53989.43,Real Estate,Low,2025-04-10
+3,ETF,P&G Inc,PLD,10283.04,8353.63,Real Estate,Medium,2025-04-10
+8,bond,JPMorgan Inc,JNJ,12498.17,14009.18,Healthcare,High,2025-04-10
+6,stock,Prologis Inc,BND,13143.47,12791.94,Technology,Low,2025-04-10
+9,bond,iShares Inc,PG,33951.88,38463.71,Technology,Medium,2025-04-10
+8,mutual fund,iShares Inc,NEE,2426.2,2236.01,Energy,Low,2025-04-10
+8,mutual fund,Microsoft Inc,MSFT,31733.36,30564.72,Energy,Low,2025-04-10
+2,mutual fund,Microsoft Inc,JPM,5944.31,5118.29,Finance,Medium,2025-04-10
+10,mutual fund,Prologis Inc,AMZN,34192.28,48127.17,Utilities,Medium,2025-04-10
+3,bond,P&G Inc,XOM,13591.0,20172.29,Finance,High,2025-04-10
+9,bond,Johnson Inc,GOOGL,20117.11,23727.87,Healthcare,High,2025-04-10
+5,bond,Exxon Inc,MSFT,1882.7,2221.26,Utilities,Medium,2025-04-10
+5,mutual fund,iShares Inc,BND,15357.81,22503.35,Technology,High,2025-04-10
+2,stock,NextEra Inc,BND,46912.27,68827.36,Technology,High,2025-04-10
+6,bond,Amazon Inc,PLD,21164.38,24067.96,Technology,Medium,2025-04-10
+1,mutual fund,P&G Inc,JNJ,9324.41,12904.5,Energy,Low,2025-04-10
+3,stock,NextEra Inc,GOOGL,28086.3,35436.52,Utilities,High,2025-04-10
+9,bond,Vanguard Inc,XOM,2327.75,1987.51,Finance,Low,2025-04-10
+8,stock,NextEra Inc,AMZN,38962.17,42357.85,Technology,High,2025-04-10
+8,stock,Amazon Inc,JPM,48652.58,56544.2,Real Estate,Low,2025-04-10
+10,stock,P&G Inc,JPM,4948.1,6287.74,Finance,Medium,2025-04-10
+4,mutual fund,Tesla Inc,PG,6690.78,9044.0,Technology,Medium,2025-04-10
+2,mutual fund,P&G Inc,BND,20932.28,27508.18,Real Estate,High,2025-04-10
+9,mutual fund,Exxon Inc,MSFT,1331.66,1439.57,Technology,Medium,2025-04-10
+9,stock,Exxon Inc,NEE,21632.45,24545.3,Energy,Medium,2025-04-10
+2,bond,P&G Inc,XOM,27360.2,28049.94,Energy,Low,2025-04-10
+10,bond,JPMorgan Inc,VOO,30427.54,29903.56,Technology,High,2025-04-10
+2,stock,JPMorgan Inc,MSFT,32854.27,40028.97,Healthcare,High,2025-04-10
+9,mutual fund,iShares Inc,JNJ,14934.56,16293.77,Healthcare,Medium,2025-04-10
+6,ETF,Prologis Inc,XOM,22284.69,18265.25,Utilities,Medium,2025-04-10
+3,bond,Apple Inc,JNJ,7404.09,8277.73,Energy,Low,2025-04-10
+10,stock,JPMorgan Inc,XOM,2853.63,2997.34,Energy,Medium,2025-04-10
+4,stock,Google Inc,MSFT,9594.2,10460.69,Technology,High,2025-04-10
+4,stock,Tesla Inc,GOOGL,33029.81,32085.76,Energy,Low,2025-04-10
+7,mutual fund,Apple Inc,BND,46869.99,57241.15,Consumer Goods,Low,2025-04-10
+2,bond,Tesla Inc,PG,34219.16,51169.72,Utilities,Low,2025-04-10
+1,bond,Google Inc,NEE,25285.96,36188.55,Healthcare,Medium,2025-04-10
+7,bond,JPMorgan Inc,NEE,13382.46,19708.15,Healthcare,Low,2025-04-10
+1,mutual fund,Johnson Inc,JNJ,6194.5,7869.16,Technology,Medium,2025-04-10
+8,stock,Tesla Inc,PG,4881.71,6783.44,Real Estate,High,2025-04-10
+1,bond,Google Inc,TSLA,30853.94,44113.58,Real Estate,High,2025-04-10
+4,stock,Apple Inc,BND,6669.05,6409.34,Healthcare,High,2025-04-10
+1,ETF,NextEra Inc,BND,16136.18,22723.36,Healthcare,Medium,2025-04-10
+4,stock,Exxon Inc,JPM,15281.37,16642.59,Real Estate,Medium,2025-04-10
+8,ETF,Google Inc,AMZN,24943.21,23846.57,Consumer Goods,High,2025-04-10
+5,bond,Google Inc,AMZN,8793.04,12829.85,Utilities,Low,2025-04-10
+10,mutual fund,Tesla Inc,JNJ,1868.35,1653.99,Utilities,Low,2025-04-10
+5,mutual fund,Tesla Inc,MSFT,44669.61,54033.12,Healthcare,Low,2025-04-10
+1,bond,Vanguard Inc,JPM,12973.26,15850.42,Finance,High,2025-04-10
+1,stock,Johnson Inc,AAPL,12533.04,17170.62,Healthcare,Low,2025-04-10
+9,bond,JPMorgan Inc,NEE,6382.42,8409.12,Utilities,High,2025-04-10
+2,bond,P&G Inc,BND,21159.75,18896.21,Finance,Low,2025-04-10
+8,mutual fund,iShares Inc,AMZN,25980.17,34764.95,Technology,High,2025-04-10
+8,mutual fund,Amazon Inc,XOM,1386.68,2007.46,Finance,Medium,2025-04-10
+5,bond,Amazon Inc,TSLA,40037.15,38796.27,Healthcare,Low,2025-04-10
+7,mutual fund,Prologis Inc,NEE,8969.96,7625.33,Energy,High,2025-04-10
+4,bond,NextEra Inc,TSLA,25420.47,25842.45,Technology,Medium,2025-04-10
+5,mutual fund,Google Inc,JNJ,41807.23,38985.97,Real Estate,High,2025-04-10
+5,stock,P&G Inc,XOM,9092.49,12629.17,Real Estate,Medium,2025-04-10
+2,bond,Prologis Inc,AAPL,1231.0,1574.53,Technology,Low,2025-04-10
+3,bond,Amazon Inc,MSFT,38524.14,51481.88,Healthcare,Medium,2025-04-10
+8,ETF,Google Inc,PG,18354.7,20899.8,Utilities,Low,2025-04-10
+4,stock,Amazon Inc,PLD,23014.14,28035.53,Utilities,Low,2025-04-10
+8,mutual fund,Johnson Inc,AAPL,10362.69,11909.33,Energy,High,2025-04-10
+6,bond,P&G Inc,JNJ,2450.16,2708.43,Healthcare,High,2025-04-10
+10,ETF,Vanguard Inc,GOOGL,20205.33,18913.32,Consumer Goods,Low,2025-04-10
+7,stock,Vanguard Inc,AAPL,39595.96,31922.1,Technology,Low,2025-04-10
+1,ETF,Johnson Inc,XOM,28583.32,33261.76,Technology,Medium,2025-04-10
+6,mutual fund,Tesla Inc,VOO,49860.18,67490.41,Real Estate,Medium,2025-04-10
+7,mutual fund,NextEra Inc,XOM,12345.94,10751.96,Consumer Goods,Medium,2025-04-10
+8,mutual fund,Google Inc,PLD,1774.0,1511.64,Healthcare,Low,2025-04-10
+2,mutual fund,Microsoft Inc,GOOGL,41983.86,52353.69,Finance,High,2025-04-10
+7,bond,Apple Inc,TSLA,4290.65,5159.53,Energy,Medium,2025-04-10
+8,bond,JPMorgan Inc,VOO,42879.34,55939.27,Technology,High,2025-04-10
+3,mutual fund,Vanguard Inc,JNJ,17987.95,20773.41,Energy,Low,2025-04-10
+5,stock,P&G Inc,JPM,11384.05,13598.76,Real Estate,Low,2025-04-10
+7,bond,Microsoft Inc,GOOGL,8513.78,12483.1,Finance,Low,2025-04-10
+10,mutual fund,NextEra Inc,NEE,14182.28,13369.05,Healthcare,Medium,2025-04-10
+4,bond,Microsoft Inc,JNJ,38194.0,42535.3,Healthcare,Low,2025-04-10
+4,bond,Microsoft Inc,MSFT,2008.91,3013.06,Utilities,Low,2025-04-10
+7,bond,Johnson Inc,BND,27610.98,30113.02,Healthcare,High,2025-04-10
+1,bond,JPMorgan Inc,PLD,20742.01,18944.23,Technology,Medium,2025-04-10
+7,bond,Amazon Inc,BND,2183.84,2964.88,Healthcare,High,2025-04-10
+6,bond,NextEra Inc,MSFT,32018.67,47591.33,Utilities,Medium,2025-04-10
+9,bond,P&G Inc,MSFT,34997.3,48469.01,Real Estate,Medium,2025-04-10
+2,ETF,Vanguard Inc,PG,18148.14,21097.68,Healthcare,Medium,2025-04-10
+1,stock,Vanguard Inc,BND,40839.94,38953.0,Healthcare,Medium,2025-04-10
+5,stock,Tesla Inc,NEE,10358.34,8463.0,Real Estate,Medium,2025-04-10
+6,ETF,Exxon Inc,JNJ,14843.13,13648.35,Energy,High,2025-04-10
+4,stock,Amazon Inc,JPM,18818.87,23184.12,Utilities,Medium,2025-04-10
+3,ETF,Vanguard Inc,JPM,7661.16,9369.01,Consumer Goods,Medium,2025-04-10
+7,bond,JPMorgan Inc,JNJ,11355.84,16163.12,Consumer Goods,Medium,2025-04-10
+10,stock,Microsoft Inc,TSLA,1958.97,2490.06,Finance,Low,2025-04-10
+1,stock,iShares Inc,JNJ,45281.0,64980.51,Energy,High,2025-04-10
+3,ETF,Apple Inc,GOOGL,26213.51,30200.74,Technology,Low,2025-04-10
+6,mutual fund,Amazon Inc,MSFT,32728.51,33919.2,Consumer Goods,Medium,2025-04-10
+7,bond,Apple Inc,PLD,44567.8,45231.82,Healthcare,Medium,2025-04-10
+5,bond,Exxon Inc,AAPL,16840.95,14854.47,Consumer Goods,High,2025-04-10
+8,mutual fund,Tesla Inc,NEE,49066.87,59671.8,Real Estate,Medium,2025-04-10
+1,stock,Amazon Inc,AMZN,26869.7,30252.16,Consumer Goods,Medium,2025-04-10
+8,mutual fund,Google Inc,AAPL,43285.97,56979.53,Technology,Medium,2025-04-10
+10,bond,Apple Inc,MSFT,9266.27,7848.34,Utilities,Medium,2025-04-10
+5,bond,Amazon Inc,PG,9883.91,11581.91,Healthcare,High,2025-04-10
+7,bond,Amazon Inc,VOO,49932.02,40231.78,Utilities,High,2025-04-10
+4,bond,Johnson Inc,TSLA,9156.34,12066.7,Healthcare,High,2025-04-10
+1,bond,Vanguard Inc,XOM,35877.09,36598.85,Consumer Goods,Low,2025-04-10
+4,ETF,iShares Inc,MSFT,46697.08,45135.35,Finance,Medium,2025-04-10
+7,mutual fund,Johnson Inc,GOOGL,44038.38,39825.93,Consumer Goods,Medium,2025-04-10
+5,mutual fund,Tesla Inc,GOOGL,49793.68,58087.86,Technology,Medium,2025-04-10
+4,ETF,Exxon Inc,XOM,36846.87,35760.13,Technology,Medium,2025-04-10
+5,bond,Apple Inc,XOM,40780.13,35783.11,Healthcare,Medium,2025-04-10
+7,bond,Exxon Inc,PLD,6093.05,7987.9,Healthcare,Medium,2025-04-10
+7,mutual fund,Johnson Inc,MSFT,36907.54,48309.44,Energy,Medium,2025-04-10
+3,bond,Prologis Inc,GOOGL,49736.5,51860.13,Consumer Goods,Low,2025-04-10
+9,bond,iShares Inc,GOOGL,4036.47,3489.7,Healthcare,High,2025-04-10
+5,mutual fund,Amazon Inc,NEE,13423.18,14436.14,Energy,Medium,2025-04-10
+5,bond,Prologis Inc,AAPL,1912.64,2333.85,Utilities,High,2025-04-10
+1,bond,P&G Inc,XOM,1203.09,1047.78,Healthcare,High,2025-04-10
+5,ETF,Tesla Inc,AAPL,31483.38,31949.49,Consumer Goods,Low,2025-04-10
+5,mutual fund,Exxon Inc,TSLA,3701.56,5151.48,Utilities,High,2025-04-10
+9,mutual fund,JPMorgan Inc,VOO,35509.67,51722.4,Consumer Goods,Medium,2025-04-10
+3,stock,Tesla Inc,JPM,40615.04,40364.97,Utilities,High,2025-04-10
+6,bond,Apple Inc,AMZN,37108.81,50838.91,Technology,Low,2025-04-10
+10,ETF,Apple Inc,AMZN,45297.58,54616.13,Energy,Medium,2025-04-10
+10,bond,iShares Inc,XOM,26204.73,33481.44,Utilities,Medium,2025-04-10
+9,stock,Prologis Inc,JNJ,47156.13,61286.77,Technology,Medium,2025-04-10
+8,mutual fund,Prologis Inc,NEE,12547.23,17266.32,Utilities,Medium,2025-04-10
+7,ETF,NextEra Inc,AAPL,44865.53,57705.76,Finance,Medium,2025-04-10
+10,mutual fund,Tesla Inc,NEE,28830.43,32750.76,Consumer Goods,High,2025-04-10
+9,stock,Exxon Inc,PLD,15527.45,19071.0,Finance,High,2025-04-10
+10,ETF,NextEra Inc,GOOGL,19080.03,15879.47,Finance,High,2025-04-10
+2,mutual fund,Apple Inc,JNJ,5655.86,7489.75,Real Estate,Medium,2025-04-10
+4,mutual fund,Johnson Inc,GOOGL,4934.76,6025.26,Technology,High,2025-04-10
+6,ETF,Google Inc,AMZN,13442.38,16306.49,Energy,Low,2025-04-10
+4,ETF,P&G Inc,JNJ,7844.89,11310.51,Finance,Medium,2025-04-10
+10,ETF,Microsoft Inc,VOO,40620.51,43168.91,Finance,Medium,2025-04-10
+9,ETF,Google Inc,VOO,10756.71,11014.66,Energy,Medium,2025-04-10
+4,ETF,NextEra Inc,VOO,34940.38,35542.28,Consumer Goods,Low,2025-04-10
